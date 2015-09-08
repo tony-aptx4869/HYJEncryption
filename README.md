@@ -2,6 +2,8 @@
 
 Author: WenFeng Zhang
 
+GitHub: [https://github.com/wenfeng0218/HYJEncryption](https://github.com/wenfeng0218/HYJEncryption "View on github.")
+
 E-mail: <wenfeng0218@icloud.com>
 
 Blog: [http://www.haoyuejun.com](http://www.haoyuejun.com "Visit my Blog now!")
